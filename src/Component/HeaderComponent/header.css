@@ -1,0 +1,20 @@
+#root .nav {
+  background: #0f171e !important;
+  padding: 0px;
+}
+
+.avlogo {
+  width: 156px;
+  margin: 0;
+}
+#navbarNav li p {
+  font-size: 18px;
+  margin: 0;
+}
+.profile_img {
+  width: 30px;
+  border-radius: 20px;
+}
+.world {
+  font-size: 18px;
+}

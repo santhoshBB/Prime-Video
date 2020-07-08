@@ -1,0 +1,60 @@
+.register {
+  display: flex;
+  justify-content: center;
+}
+.register .sub {
+  box-shadow: 0px 1px 3px 0px black;
+  display: flex;
+  flex-direction: column;
+  width: 27%;
+  padding: 10px 16px 10px 16px;
+}
+.image {
+  text-align: center;
+  padding: 10px 25px 6px 0px;
+}
+.sub label {
+  font-weight: 500;
+}
+.text {
+  font-size: 13px;
+  margin: 0px;
+}
+.heading {
+  margin: 0px;
+  font-size: 27px;
+  font-weight: 400;
+}
+.button {
+  margin-top: 20px;
+  background: #f0c14b;
+  border-color: #a88734 #9c7e31 #846a29;
+  outline: none;
+  border: none;
+  border: 1px solid #a88734;
+}
+input {
+  outline: none;
+}
+.button2 {
+  border: none;
+  border: 1px solid gray;
+}
+.foottext {
+  width: 30%;
+  padding: 10px;
+}
+
+footer {
+  background: linear-gradient(to right, rgb(236, 233, 230), rgb(255, 255, 255));
+}
+footer .foot {
+  text-align: center;
+  background: linear-gradient(to right, rgb(236, 233, 230), rgb(255, 255, 255));
+}
+.foot a {
+  padding: 10px;
+}
+hr {
+  width: 75%;
+}
