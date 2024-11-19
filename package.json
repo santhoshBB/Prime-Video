@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.5.0",
     "faker": "^4.1.0",
-    "firebase": "^7.15.4",
+    "firebase": "^10.9.0",
     "jquery": "^3.5.1",
     "md5": "^2.2.1",
     "popper.js": "^1.16.1",
